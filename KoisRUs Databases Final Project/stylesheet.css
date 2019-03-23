@@ -1,0 +1,1012 @@
+
+body{
+    
+}
+/* banner containing title image*/
+
+
+
+/* KOys are us title */
+.title{
+    position:absolute;
+    font-size:85px;
+    left:530px;
+    top:10px;
+    right:-190px;
+    color:coral;
+    bottom: 260px;
+    font-family:fantasy;
+}
+/*title for "fishing rodes and lines" */
+.rodesandlines{
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:960px;
+    right:-80px;
+    top:380px;
+   
+    
+}
+/*title for "baits and hooks" */
+.baitsandhooks{
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:860px;
+    right:-80px;
+    top:420px;
+           
+}
+/*title for "hatsvests and apperal" */
+.HatsVestsApparel{
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:290px;
+    right:190px;
+    top:720px;
+   
+    
+}
+/*title for "books" */
+.Books{
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:900px;
+    right:-200px;
+    top:770px;
+    bottom:80px; 
+    
+}
+
+.Apparel{
+    
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:400px;
+    right:-200px;
+    top:770px;
+    bottom:80px; 
+}
+.rodsandlines{
+    
+    position: absolute;
+    color: gold;
+    font-size: 30px;
+    left:290px;
+    right:-200px;
+    top:420px;
+    bottom:80px; 
+}
+
+/* fishing rod and lines image*/
+.image1{
+width:400px;
+height:250px;
+left:299px;
+right:20px;
+top:150px;
+position:absolute;
+border:4px solid #ddd;
+opacity: 0.7;
+}
+
+.image1:hover{
+    opacity: 1.0;
+    width:415px;
+    height:265px;
+    border:4px;
+    
+}
+/* baits and hook image*/
+.image2{
+width:400px;
+height:250px;
+left:766px;
+right:190px;
+top:150px;
+position:absolute;
+border:4px solid #ddd;
+opacity: 0.7;
+}
+
+.image2:hover{
+    opacity: 1.0;
+    width:415px;
+    height:265px;
+    border: 4px;
+    
+}
+/* apperal image*/
+.image3{
+width:290px;
+height:260px;
+left:299px;
+right:20px;
+top:470px;
+position:absolute;
+border:4px solid #ddd;
+opacity: 0.7;
+    
+}
+
+.image3:hover{
+    opacity: 1.0;
+    width:300px;
+    height:270px;
+    border:4px;
+}
+/* books image*/
+.image4{
+width:400px;
+height:250px;
+left:766px;
+right:190px;
+top:485px;
+position:absolute;
+border:4px solid #ddd;
+opacity: 0.7;
+}
+
+.image4:hover{
+    opacity: 1.0;
+    width:415px;
+    height:265px;
+    border: 4px;
+}
+
+
+/* product list 1 " fishing rods and lines style sheet */
+
+/* banner for all 4 product pages  */
+.imgbanner{
+position:absolute;
+width:800px;
+height:110px;
+left:420px;
+right:20px;
+top:20px;
+opacity:1.0;
+
+}
+
+/*bar above banner for all 4 product pages*/
+.container2{
+    position: absolute;
+    background:#CDD9DC;
+    width: 1100px;
+    height: 40px;
+    left:120px;
+    top: 6px;
+}
+.facebooklogo{
+    position: absolute;
+    width:35px;
+    height:34px ;
+    left: 1160px;
+    top: 25px;
+    
+}
+.instalogo{
+   position: absolute;
+    width:35px;
+    height:34px ;
+    left: 1060px;
+    top: 25px; 
+}
+.twitterlogo{
+    position: absolute;
+    width:35px;
+    height:34px ;
+    left: 1110px;
+    top: 25px;
+}
+/* koi's r'us are us title in corner*/
+.t2{
+    position: absolute;
+    left: 150px;
+    top: -20px;
+    font-size: 35px;
+    color: black;
+    font-family: fantasy;
+    
+}
+/* follow us */
+.t3{
+     position: absolute;
+    left: 910px;
+    top: 6px;
+    font-size: 22px;
+    color: black;
+    font-family: fantasy;
+}
+/* title in banner */
+.title1{
+    color: coral;
+    position: absolute;
+    font-size: 50px;
+    left:180px;
+    right: 22px;
+    top: 60px;
+    bottom: auto;    
+}
+/* LINKS to home page and other product websites*/
+.homepage{
+    position: absolute;
+    top: 305px;
+    left: 120px;
+    font-size: 20px;
+    color:black;
+    
+    
+}
+.cartimg{
+    position: absolute;
+    width:35px;
+    height:34px ;
+    left: 1160px;
+    top: 325px;
+    
+}
+
+.cart{
+    position: absolute;
+    top: 305px;
+    left: 1060px;
+    font-size: 20px;
+    color:black;
+    
+}
+
+
+
+
+.apperalink{
+    position: absolute;
+    top: 305px;
+    left: 220px;
+    right:;
+    font-size: 20px;
+    color:black;
+    
+}
+
+.booklink{
+    position: absolute;
+    top: 305px;
+    left: 350px;
+    right:;
+    font-size: 20px;
+    color:black;
+    
+}
+
+.baitshooklink{
+    position: absolute;
+    top: 305px;
+    left: 470px;
+    right:;
+    font-size: 20px;
+    color:black;
+    
+}
+/* product images for product list 1 with names and prices*/
+
+.imgpr1{
+    position: absolute;
+    width: 180px;
+    height:180px;
+    float:left ;
+    left:100;
+    top:150px ;
+}
+
+.prod1{
+     position: absolute;
+    width: 180px;
+    height:180px;
+    float:left ;
+    left:100;
+    top:500px ;
+}
+
+.imgpr2{
+    position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:450px ;
+}
+.imgpr3{
+   position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:725px ;
+}
+
+.imgpr4{
+    position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:1000px ;
+}
+
+
+.imgpr5{
+   position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:1300px ;
+}
+.imgpr6{
+   position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:1570px ;
+}
+
+.imgpr7{
+position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:1870px ;
+}
+
+.imgpr8{
+  position: absolute;
+    width: 180px;
+    height:180px;
+    float: left;
+    left:100;
+    top:2150px ;
+}
+
+/* product2 list style sheet*/
+
+.imgpr9{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1150px ;
+    bottom:;
+    
+}
+.prod9{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1250px ;
+    bottom:;
+    
+
+}
+.imgpr10{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1000px ;
+    bottom: ;
+}
+.prod10{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1100px ;
+    bottom:;
+    
+}
+
+.imgpr11{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:840px ;
+    bottom: ;
+}
+.prod11{
+     position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-400px ;
+    top:950px ;
+    bottom:;
+}
+
+.imgpr12{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:710px ;
+    bottom: ;
+}
+.prod12{
+  position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:810px ;
+    bottom:;
+      
+}
+
+.imgpr13{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:580px;
+    bottom: ;
+}
+.prod13{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:690px ;
+    bottom:;
+      
+}
+
+.imgpr14{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left: 620px;
+    right: ;
+    top: 270px;
+    bottom: ;
+}
+.prod14{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:540px ;
+    bottom:;
+}
+
+.imgpr15{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:430px ;
+    bottom: ;
+}
+.prod15{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:380px ;
+    bottom:; 
+}
+
+.imgpr16{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:140px ;
+    bottom: ;
+}
+.prod16{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:240px ;
+    bottom:;  
+}
+
+
+/* product list 3 style sheet*/
+
+.imgpr17{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1150px ;
+    bottom:;
+    
+}
+.prod17{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1250px ;
+    bottom:;
+    
+
+}
+.imgpr18{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1000px ;
+    bottom: ;
+}
+.prod18{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1100px ;
+    bottom:;
+    
+}
+
+.imgpr19{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:840px ;
+    bottom: ;
+}
+.prod19{
+     position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-400px ;
+    top:950px ;
+    bottom:;
+}
+
+.imgpr20{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:710px ;
+    bottom: ;
+}
+.prod20{
+  position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:810px ;
+    bottom:;
+      
+}
+
+.imgpr21{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:580px;
+    bottom: ;
+}
+.prod21{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:690px ;
+    bottom:;
+      
+}
+
+.imgpr22{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left: 620px;
+    right: ;
+    top: 270px;
+    bottom: ;
+}
+.prod22{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:540px ;
+    bottom:;
+}
+
+.imgpr23{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:430px ;
+    bottom: ;
+}
+.prod23{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:380px ;
+    bottom:; 
+}
+
+.imgpr24{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:140px ;
+    bottom: ;
+}
+.prod24{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:240px ;
+    bottom:;  
+}
+
+
+
+/* product 4 style sheet*/ 
+
+.imgpr25{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1150px ;
+    bottom:;
+    
+}
+.prod25{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1250px ;
+    bottom:;
+    
+
+}
+.imgpr26{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:1000px ;
+    bottom: ;
+}
+.prod26{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:1100px ;
+    bottom:;
+    
+}
+
+.imgpr27{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:840px ;
+    bottom: ;
+}
+.prod27{
+     position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-400px ;
+    top:950px ;
+    bottom:;
+}
+
+.imgpr28{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:710px ;
+    bottom: ;
+}
+.prod28{
+  position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:810px ;
+    bottom:;
+      
+}
+
+.imgpr29{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:580px;
+    bottom: ;
+}
+.prod29{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right: ;
+    top:690px ;
+    bottom:;
+      
+}
+
+.imgpr30{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left: 620px;
+    right: ;
+    top: 270px;
+    bottom: ;
+}
+.prod30{
+    position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:540px ;
+    bottom:;
+}
+
+.imgpr31{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:430px ;
+    bottom: ;
+}
+.prod31{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:380px ;
+    bottom:; 
+}
+
+.imgpr32{
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:620px ;
+    right: ;
+    top:140px ;
+    bottom: ;
+}
+.prod32{
+   position:absolute;
+    font-size: 20px;
+    left:620px ;
+    right:-350px ;
+    top:240px ;
+    bottom:;  
+}
+
+
+/* add to cart button*/
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 720px;
+    left: 220px;
+    
+}
+a.button2 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 720px;
+    left: 620px;
+    
+}
+a.button3 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 720px;
+    left: 980px;
+    
+}
+a.button4 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1230px;
+    left: 220px;
+    
+}
+a.button5 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1230px;
+    left: 620px;
+    
+}
+a.button6 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1230px;
+    left: 980px;
+    
+}
+a.button7 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1670px;
+    left: 220px;
+    
+}
+a.button8 {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1670px;
+    left: 620px;
+    
+}
+.glyphicon glyphicon-shopping-car{
+    
+-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1670px;
+    left: 120px;    
+}
+
+.cartButton
+{
+	background-color: #990000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.quantityBox{
+    
+  position:absolute;
+  top:'700px';
+  bottom:'200px';
+  right:'200px';
+  left:'200px';
+    
+}
+
+.form-control{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+   border-image-outset: black;
+    color: black;
+
+    text-decoration: none;
+    color: initial;
+    position: absolute;
+    top: 1670px;
+    left: 620px;
+    
+}
+
+.price1{
+    position: absolute;
+    width: 420px;
+    height:3150px;
+    float:left;
+    left:120px ;
+    top:400px ;
+
+}
+
+
